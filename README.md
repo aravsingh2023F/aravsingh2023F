@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I started this GitHub to gain more software engineering experience in my college career.
+
 <!--
 **aravsingh2023F/aravsingh2023F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
